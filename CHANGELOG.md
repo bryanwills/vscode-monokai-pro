@@ -1,6 +1,13 @@
 # Monokai Pro for Visual Studio Code Changelog
 
-## 2.0.12 (26-01-07)
+## 2.0.13 (26-04-01)
+
+- [fix] activity badges
+- [fix] input background color
+- [fix] inlay hint parameter / type discrimination
+- [new] inline edit colors
+
+- ## 2.0.12 (26-01-07)
 
 - [new] web assembly icon
 - [new] solidity icon
