@@ -1,5 +1,18 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.14 (26-08-05)
+
+- [new] agent window theme
+
+This is an opt-in setting, and it needs to adjust settings.json. You can also change your settings manually:
+```json
+"extensions.supportAgentsWindow": {
+  "monokai.theme-monokai-pro-vscode": true
+}
+```
+
+- [fix] icons occasionally resetting when an unrelated setting changed
+
 ## 2.0.13 (26-04-01)
 
 - [fix] activity badges
